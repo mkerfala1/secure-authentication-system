@@ -46,7 +46,7 @@ A **full-stack secure authentication system** built with a modern React frontend
 1. **Clone the project:**
 
 ```bash
-git clone https://github.com/<your-new-username>/secure-authentication-system.git
+git clone https://github.com/mkcamara10/secure-authentication-system.git
 cd secure-authentication-system
 ````
 
